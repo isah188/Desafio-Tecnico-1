@@ -2,7 +2,7 @@
 
 <h2>Vamos começa com as instruções de como rodar o projeto;</h2>
 
-<p>- O programiz é um site que possue um compilador online para varias linguagens inclusive JavaScript cole link no seu navegador www.programiz.com/javascript/online-compiler/ </p>
+<p>- O programiz é um site que possue um compilador online para varias linguagens inclusive JavaScript www.programiz.com/javascript/online-compiler/ </p>
 
 <p>- No repositorio atual temos uma pasta com o nome NumerosDivisiveis, dentro dela temos um arquivo em JavaScript.</p>
 
