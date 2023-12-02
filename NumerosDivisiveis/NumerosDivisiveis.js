@@ -1,4 +1,4 @@
-function somatorioDeNumerosDivisiveisPortresecinco(numero){
+function somatorioDeNumerosDivisiveisPorTresOuCinco(numero){
   if(Number.isInteger(numero)){
     let divisiveis=[];
     var somatorio=0;
@@ -24,5 +24,5 @@ function somatorioDeNumerosDivisiveisPortresecinco(numero){
     
     
     // DIGTE O NÚMERO DENTRO DO PARENTES
-    somatorioDeNumerosDivisiveisPortresecinco();
+    somatorioDeNumerosDivisiveisPorTresOuCinco(10);
     
